@@ -1,8 +1,8 @@
-# Cobalt2 Theme [DEPRECATED]
+# [DEPRECATED] Cobalt2 Theme
 
 > **This extension has been deprecated.**
 
-> Wes Bos :fire: released his official version. Please uninstall this theme and install the official theme. Thank you.
+> Wes Bos :fire: released his official version. Please uninstall this theme and install the official one. Thank you.
 
 # Cobalt2 Theme Official by Wes Bos
 
